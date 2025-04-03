@@ -11,3 +11,5 @@ N
 tests/usage-monitoring.test.ts,9/6/96dd42798536a5abb1dd5c6f7b240e6b8ddca94d
 T
 $tests/recipient-verification.test.ts,7/d/7dd1359138fcb39e256a8cfa599cf4b6648fbb0e
+O
+contracts/usage-monitoring.clar,6/4/64b548ff0c7fe6967b114f4d981579efdd8cb424
